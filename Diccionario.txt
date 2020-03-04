@@ -1,0 +1,16 @@
+#Se clasificó con '1' y '0' a todas los atributos utilizados, a exepción de la edad. 
+
+ETNIA			=> Valor 1 para la etnia 'Mestizo' y 0 para 'Otras etnias'.
+NACIMIENTO		=> Valor 1 para nacidos en 'Loja' y 0 para 'Nacidos fuera de la ciudad Loja'.
+PARALELO		=> Valor 0 para estudiantes del paralelo 'A' y 1 para 'otros paralelos'.	
+GENERO			=> Valor 1 para el genero 'Masculino' y 0 para 'Femenino'.
+EDAD			=> Edad de los estudiantes, con un rango entre 18 a 33 años.
+CARGAS			=> Valor 1 para 'Tiene cargas' y 0 para 'No tiene cargas'.
+ALGEBRA_L		=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la asignatura 'Algebra Lineal'.
+COMUNICACION_P		=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la asignatura 'Comunicación Profesional'.
+ELECTRICIDAD		=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la asignatura 'Electricidad'.	
+INTRODUCCION_A		=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la asignatura 'Introduccion a las Ciencias de la Computación'.	
+TEORIA_D		=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la asignatura 'Teoria de la Programación'.	
+
+REPROBO			=> Valor 1 sí 'Aprobó' y 0 sí 'Reprobó' la matrícula del segundo ciclo. 
+			   Esta variable es la utilizada para predecir, se la representa como 'TARGET'.
